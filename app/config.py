@@ -61,7 +61,7 @@ class Settings:
     # =========================
     # Preprocessing
     # =========================
-    FRAME_SAMPLE_RATE = 5          # frames per second
+    FRAME_SAMPLE_RATE = 10          # frames per second
     MAX_FRAMES = 150               # hard cap for edge safety
     FACE_IMAGE_SIZE = 224
 
