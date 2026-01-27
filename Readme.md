@@ -35,6 +35,11 @@
 * **Integrity Validation**: Verifies media authenticity and integrity before inference.
 
 ---
+## Hosting 
+
+* **Hosting has been done on two seperate platforms :
+* **For backend : HuggingFace Spaces
+* **For frontend : Streamlit Cloud 
 
 ## 🗂️ Project Structure
 
