@@ -39,7 +39,9 @@
 
 * Hosting has been done on two seperate platforms :
 * For backend : HuggingFace Spaces
-* For frontend : Streamlit Cloud 
+* For frontend : Streamlit Cloud
+
+---
 
 ## 🗂️ Project Structure
 
